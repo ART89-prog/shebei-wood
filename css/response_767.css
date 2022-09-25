@@ -1,0 +1,13 @@
+@media print, (max-width: 767px) {
+
+    :root {
+        --font_size_title: 32px;
+        --font_size: 15px;
+    }
+    .block {
+        padding: 30px 0;
+    }
+ 
+
+
+}
