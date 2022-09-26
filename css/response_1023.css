@@ -113,14 +113,16 @@
         width: 30px;
         height: 30px;
     }
-
+    .steps_items:before {
+        display: none;
+    }
+    .services_item:last-child .services_item-title {
+        font-size: 18px;
+    }
+    .services_item-text br {
+        display: none;
+    }
 
   
   
-
-
-
-
-
-
 }
